@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Abdelali Ramzi</h2>
+<h2>Hey 👋, I'm Abdelli Ramzi</h2>
 
 <p>I'm currently learning <strong>Python</strong> and passionate about programming. I'm working on improving my skills every day, building small projects, and exploring the world of backend development and automation.</p>
 
